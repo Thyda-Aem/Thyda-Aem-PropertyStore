@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAADOkNYFk6Qk6vSw87vX5OoQAAAAACAAAAAAAQZgAAAAEAACAAAACUCuXpHQnmkcAq9tE2Mm41pQ32BhsNxGFQiAxTPwMmtAAAAAAOgAAAAAIAACAAAAAGbuv4733T0uvVhJEgTOsDkfn8/hdz2AHFkOrDxOSFcCAAAACA5lTv8lmAYSEJ2a/mbewaoTkyCp4Jd3pg5PBWySQ8KUAAAAD7WNinAvbhoahuHLecvoLDOhKUpi5vC6KATgJZ7oXpeIEvWjg6pNItClbWCDoQRhCVMYNt+q/UpFH5DBtaTaTN</EncryptedPassword>
+    <_PublishTargetUrl>ftp://176.9.174.165/public_html</_PublishTargetUrl>
+    <History>False|2023-08-01T09:32:53.4945521Z;False|2023-08-01T15:50:28.7101734+07:00;False|2023-08-01T15:43:15.4593229+07:00;False|2023-08-01T15:28:33.2892978+07:00;False|2023-08-01T15:28:05.6422975+07:00;False|2023-08-01T15:24:40.6078089+07:00;False|2023-08-01T14:50:41.3824868+07:00;False|2023-08-01T14:38:31.4477234+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>server=localhost%3b port= 5432%3b database=prstore%3b Username=postgres%3b Password=1239</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
